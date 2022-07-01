@@ -1,84 +1,66 @@
-#Belize Region (7500)
+#Guatemala Region (7200)
 #Ruled by Britain 1836
-#Belize Town (4500/1125 POPS)
+#Belize (7200/1800 POPS)
 2190 = {
-	aristocrats = {
-		culture = british
-		religion = protestant
-		size = 5
-	}
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 20
-	}
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-	artisans = {
-		culture = kreol
-		religion = protestant
-		size = 50
-	}
-        farmers = {
-                culture = kreol
-                religion = protestant
-                size = 275
-        }
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 300
-	}
-	farmers = {
-		culture = mayan
-		religion = animist
-		size = 400
-	}
-}
-#Ruled by Central America 1836
-#San Ignacio (3000/750 POPS)
-2628 = {
-	aristocrats = {
-		culture = central_american
-		religion = catholic
-		size = 25
-	}
-	clergymen = {
-		culture = central_american
-		religion = catholic
-		size = 10
-	}
-	artisans = {
-		culture = central_american
-		religion = catholic
-		size = 50
-	}
-	farmers = {
-		culture = central_american
-		religion = catholic
-		size = 150
-	}
-	clergymen = {
-		culture = mayan
-		religion = catholic
-		size = 10
-	}
-	artisans = {
-		culture = mayan
-		religion = catholic
-		size = 55
-	}
-	soldiers = {
-		culture = mayan
-		religion = catholic
-		size = 50
-	}
-	farmers = {
-		culture = mayan
-		religion = catholic
-		size = 400
-	}
+
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 40
+    }
+
+    officers = {
+        culture = central_american
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+        culture = british
+        religion = anglican
+        size = 25
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 15
+    }
+
+    artisans = {
+        culture = kreol
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 10
+    }
+
+    farmers = {
+        culture = kreol
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 1058
+    }
+
+    farmers = {
+        culture = mayan
+        religion = catholic
+        size = 250
+    }
+
 }
