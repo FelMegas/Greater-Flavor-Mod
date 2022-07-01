@@ -2998,58 +2998,14 @@
         militancy = 9
     }
 }
-3402 = {
-    aristocrats = {
-        culture = mexican
-        religion = catholic
-        size = 375
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = catholic
-        size = 50
-    }
-
-    artisans = {
-        culture = mexican
-        religion = catholic
-        size = 500
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 150
-    }
-
-    farmers = {
-        culture = mexican
-        religion = catholic
-        size = 3475
-    }
-
-    clergymen = {
-        culture = mayan
-        religion = catholic
-        size = 125
-    }
-
-    farmers = {
-        culture = mayan
-        religion = catholic
-        size = 5925
-        militancy = 9
-    }
-}
 #Yucatan Region (440000)
 #ruled by Mexico 1836
-#Merida (240000/60000 POPS)
+#Merida (200000/50000 POPS)
 2183 = {
     aristocrats = {
         culture = mexican
         religion = catholic
-        size = 1275
+        size = 1050
         militancy = 9
     }
 
@@ -3063,21 +3019,21 @@
     officers = {
         culture = mexican
         religion = catholic
-        size = 50
+        size = 150
         militancy = 9
     }
 
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 475
+        size = 100
         militancy = 9
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 1050
+        size = 1500
         militancy = 9
     }
 
@@ -3092,149 +3048,174 @@
     farmers = {
         culture = mexican
         religion = catholic
-        size = 12950
-        militancy = 9
-    }
-
-    clergymen = {
-        culture = mayan
-        religion = catholic
-        size = 125
+        size = 30000
         militancy = 9
     }
 
     artisans = {
         culture = mayan
         religion = catholic
-        size = 1950
+        size = 800
         militancy = 9
-    }
-
-    soldiers = {
-        culture = mayan
-        religion = catholic
-        size = 400
-
-        militancy = 9
-    }
-
-    farmers = {
-        culture = mayan
-        religion = catholic
-        size = 36525
-        militancy = 9
-    }
-}
-#Camnpeche (108000/27000 POPS)
-2184 = {
-    aristocrats = {
-        culture = mexican
-        religion = catholic
-        size = 550
-    }
-
-    clergymen = {
-        culture = mexican
-        religion = catholic
-        size = 175
-    }
-
-    artisans = {
-        culture = mexican
-        religion = catholic
-        size = 400
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = mexican
-        religion = catholic
-        size = 6775
-    }
-
-    clergymen = {
-        culture = mayan
-        religion = catholic
-        size = 100
-    }
-
-    artisans = {
-        culture = mayan
-        religion = catholic
-        size = 900
     }
 
     soldiers = {
         culture = mayan
         religion = catholic
         size = 200
+
+        militancy = 9
     }
 
     farmers = {
         culture = mayan
         religion = catholic
-        size = 17800
+        size = 14000
+        militancy = 9
     }
 }
-#Bacalar (92000/23000 POPS)
+#Campeche (100000/25000 POPS)
+2184 = {
+    aristocrats = {
+        culture = mexican
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = mexican
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = mexican
+        religion = catholic
+        size = 950
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = catholic
+        size = 600
+    }
+
+    farmers = {
+        culture = mexican
+        religion = catholic
+        size = 15000
+    }
+
+    artisans = {
+        culture = mayan
+        religion = catholic
+        size = 400
+    }
+
+    soldiers = {
+        culture = mayan
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = mayan
+        religion = catholic
+        size = 7500
+    }
+}
+#San Antonio (20000/5000 POPS)
+3402 = {
+    aristocrats = {
+        culture = mexican
+        religion = catholic
+        size = 50
+    }
+
+    clergymen = {
+        culture = mexican
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = mexican
+        religion = catholic
+        size = 100
+    }
+
+    farmers = {
+        culture = mexican
+        religion = catholic
+        size = 800
+    }
+
+    clergymen = {
+        culture = mayan
+        religion = catholic
+        size = 50
+    }
+
+    artisans = {
+        culture = mayan
+        religion = catholic
+        size = 850
+    }
+
+    farmers = {
+        culture = mayan
+        religion = catholic
+        size = 3100
+    }
+}
+#Bacalar (120000/30000 POPS)
 2185 = {
     aristocrats = {
         culture = mexican
         religion = catholic
-        size = 475
+        size = 250
     }
 
     clergymen = {
         culture = mexican
         religion = catholic
-        size = 150
+        size = 250
     }
 
     artisans = {
         culture = mexican
         religion = catholic
-        size = 50
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = catholic
-        size = 10
+        size = 500
     }
 
     farmers = {
         culture = mexican
         religion = catholic
-        size = 1175
+        size = 8000
     }
 
     clergymen = {
-        culture = mexican
+        culture = mayan
         religion = catholic
-        size = 50
+        size = 500
     }
 
     artisans = {
-        culture = mexican
+        culture = mayan
         religion = catholic
-        size = 1100
+        size = 2000
     }
 
     soldiers = {
-        culture = mexican
+        culture = mayan
         religion = catholic
-        size = 225
+        size = 500
     }
 
     farmers = {
         culture = mayan
         religion = catholic
-        size = 20625
+        size = 18000
     }
 
 }
